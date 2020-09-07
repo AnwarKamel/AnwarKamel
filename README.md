@@ -26,9 +26,12 @@ src="https://devicons.github.io/devicon/devicon.git/icons/android/android-origin
 </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnwarKamel&show_icons=true" alt="AnwarKamel" /> </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnwarKamel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Find me around the web 🌎:
 - Gmail    anwarinfo24@gmail.com 📹 ✍🏾
 - linkedIn <a href="https://www.linkedin.com/in/anwar-kamel-ouail-aa339314b/"> LinkedIn</a> 
 - Follow me on Youtube  <a href="https://www.youtube.com/c/AnwarTechn/">Youtube</a> 
+
+
