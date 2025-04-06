@@ -7,7 +7,6 @@ A little more about me...
 
 - 📫 Reach me at **anwarinfo24@gmail.com**
 
-- ⚡ Fun fact **Buy me a ☕️ and I'm yours**
 
 # Social Media #
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AnwarKamel)
