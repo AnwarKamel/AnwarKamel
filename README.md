@@ -5,7 +5,7 @@ A little more about me...
 
 - 💬 Ask me about **Android , Kotlin , Java , Laravel , Python , C , Ajax , JavaScript, PHP, MySQL, HTML, CSS**
 
-- 📫 Reach me at **anwarinfo24@gmail.com**
+- 📫 Reach me at **anwarinfo32@gmail.com**
 
 
 # Social Media #
@@ -36,7 +36,7 @@ src="https://devicons.github.io/devicon/devicon.git/icons/android/android-origin
 
 
 ## Find me around the web 🌎:
-- Gmail    anwarinfo24@gmail.com 📹 ✍🏾
+- Gmail    anwarinfo32@gmail.com 📹 ✍🏾
 - linkedIn <a href="https://www.linkedin.com/in/anwar-kamel-ouail-aa339314b/"> LinkedIn</a> 
 - Follow me on Youtube  <a href="https://www.youtube.com/c/AnwarTechn/">Youtube</a> 
 
